@@ -1,12 +1,13 @@
 # awesome-single-cut-guitars
 
 List of guitar brand selling single cut guitars, like Gibson Les Paul.
+The guitars are set neck, with curved top.
 
 ## Listing
 
 |Brand| Country | Made in | Single cut model(s)| Finish|
 |---|----|----|----|----|
-|[Collings](https://collingsguitars.com/electrics-category/solid-body/)|🇺🇸 USA|🇺🇸 USA|City Limits® (CL)| Nitro |
+|[Collings](https://collingsguitars.com/electrics-category/solid-body/)|🇺🇸 USA|🇺🇸 USA|City Limits (CL)| Nitro |
 |[Dean Guitars](http://deanguitars.com) | 🇺🇸 USA | 🇺🇸 USA | thoroughbred | |
 |[Dean Zelinsky](http://www.deanzelinskyguitars.com) |🇺🇸 USA|🇺🇸 USA|StrettaVita,LaVoce||
 |[Duesenberg Guitars](http://duesenberg.de)|🇩🇪 Germany| 🇩🇪 Germany | Fantom ||
