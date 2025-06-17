@@ -1,22 +1,29 @@
 # README Update Instructions
 
 ## Objective
+
 Update the `README.md` file for the awesome-single-cut-guitars repository to maintain consistent formatting and organization.
 
 ## Required Actions
 
 ### 1. Sort Brands Alphabetically
+
 - Sort all entries in both the main "Listing" table and the "Guitar Boutiques" table by brand name in alphabetical order
 - Ignore articles like "The" and brackets when sorting (e.g., "[Gibson]" should sort under "G")
 - Maintain all existing data (links, models, countries, finishes) while reordering
 
-### 2. Add Country Flags
-- Add emoji flags to all country names in both the "Country" and "Made in" columns
-- Use the appropriate flag emoji before the country name (e.g., "🇺🇸 USA", "🇯🇵 Japan")
-- For entries with multiple countries, add flags for each country (e.g., "🇯🇵 Japan, 🇨🇳 China")
+### 2. Flag Formatting Standards
+
+- **Use only flag emojis** in the "Country" and "Made in" columns
+- **Add country names as alt text** using HTML span elements with title attributes
+- **Format**: `<span title="CountryName">🇫🇱</span>`
+- **For multiple countries**: Separate with spaces only (no commas)
+- **Example**: `<span title="Japan">🇯🇵</span> <span title="Indonesia">🇮🇩</span> <span title="China">🇨🇳</span>`
 
 ### Flag Reference
+
 Common flags to use:
+
 - 🇺🇸 USA
 - 🇨🇳 China  
 - 🇯🇵 Japan
@@ -29,20 +36,25 @@ Common flags to use:
 - 🇺🇦 Ukraine
 - 🇰🇷 South Korea
 - 🇮🇩 Indonesia
+- 🇸🇪 Sweden
+- 🇨🇿 Czech Republic
 
 ### 3. Data Integrity
+
 - Preserve all existing information (brand names, links, model names, finish types)
 - Maintain proper markdown table formatting
 - Keep the table headers and structure intact
 - Ensure all links remain functional
 
 ### 4. Quality Checks
+
 - Verify alphabetical sorting is correct
-- Confirm all countries have appropriate flags
+- Confirm all countries have appropriate flags with proper HTML title attributes
 - Check that table formatting is consistent
 - Ensure no data is lost during the update
 
 ### 5. Entry Uniqueness Validation
+
 - **Check for duplicate brand entries** across both tables
 - **Verify no brand appears multiple times** with different information
 - **Identify similar or variant brand names** that might be the same company:
@@ -58,6 +70,7 @@ Common flags to use:
 - **Model uniqueness**: Within each brand entry, ensure model names aren't duplicated
 
 ### 6. URL Validation
+
 - **Test all website URLs** to ensure they are valid and accessible
 - Verify that each link points to the correct guitar brand's official website
 - Check for the following issues:
@@ -77,19 +90,30 @@ Common flags to use:
   - Browser extensions for bulk link checking
 
 ### 7. URL Format Standards
+
 - Ensure all URLs use HTTPS when available
 - Remove unnecessary parameters (tracking codes, etc.)
 - Use clean, direct links to the brand's main page or guitar section
 - Format URLs consistently without trailing slashes unless required
 
 ## Example Format
+
 ```markdown
-|[Brand Name](https://example.com/)|🇺🇸 USA|🇺🇸 USA|Model Name|Finish Type|
+|[Brand Name](https://example.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Model Name|Finish Type|
+```
+
+### Multi-Country Example
+
+```markdown
+|[Brand Name](https://example.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span> <span title="China">🇨🇳</span>|Model Name|Finish Type|
 ```
 
 ## Notes
+
 - Both tables should be updated: main "Listing" and "Guitar Boutiques"
 - If a brand has incomplete country information, research and fill in missing data when possible
 - Maintain the existing table structure and column order
+- **Flag formatting**: Always use HTML span elements with title attributes for accessibility
+- **Multiple countries**: Separate flags with spaces only, no commas or other punctuation
 - **Priority**: URL validation should be done regularly (quarterly or when adding new entries) to maintain link quality
-- **Priority**: Entry uniqueness should be checked every time new brands are added to prevent duplicates 
+- **Priority**: Entry uniqueness should be checked every time new brands are added to prevent duplicates
