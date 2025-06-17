@@ -5,6 +5,8 @@ The guitars are set neck, with curved top.
 
 ## Listing
 
+PS: the models and the finishes are only informative.
+
 |Brand| Country | Made in | Single cut model(s)| Finish|
 |---|----|----|----|----|
 |[Collings](https://collingsguitars.com/electrics-category/solid-body/)|🇺🇸 USA|🇺🇸 USA|City Limits (CL)| Nitro |
@@ -18,9 +20,10 @@ The guitars are set neck, with curved top.
 |[Godin](https://godinguitars.com/)| 🇨🇦 Canada| 🇨🇦 Canada | Summit| Poly |
 |[Hagstrom Guitars](https://www.hagstromguitars.com/)|🇸🇪 Sweden|🇨🇳 China| Ultra | Poly |
 |[Heritage](https://heritageguitars.com/) |🇺🇸 USA|🇺🇸 USA|H-150, H-157| Nitro |
+|[Kiesel Guitars](https://www.kieselguitars.com/)|🇺🇸 USA|🇺🇸 USA|CS6| Poly |
 |[Maybach](https://maybach-guitars.de) | 🇩🇪 Germany| 🇩🇪 Germany| Lester | Nitro |
 |[Michael Kelly Guitar](https://www.michaelkellyguitars.com/) | 🇺🇸 USA | 🇺🇸 USA | Patriot Instinct | Poly |
-|[Paul Reed Smith (PRS)](https://prsguitars.com/) |🇺🇸 USA, 🇰🇷 South Korea|🇺🇸 USA|McCarty SingleCut|Poly & Nitro|
+|[Paul Reed Smith (PRS)](https://prsguitars.com/) |🇺🇸 USA|🇺🇸 USA, 🇰🇷 South Korea|McCarty SingleCut|Poly & Nitro|
 |[Schecter Guitars](https://www.schecterguitars.com/)|🇺🇸 USA|🇺🇸 USA|Solo-II|Poly|
 |[Tokai](https://tokaigakki.com/)|🇯🇵 Japan|🇯🇵 Japan| LS, LC| Poly & Nitro |
 |[Yamaha](https://www.yamaha.com/)|🇯🇵 Japan|🇯🇵 Japan, 🇮🇩 Indonesia, 🇨🇳 China| Revstar| Poly |
