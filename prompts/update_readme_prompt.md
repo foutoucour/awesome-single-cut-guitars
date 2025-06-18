@@ -38,6 +38,8 @@ Common flags to use:
 - 🇮🇩 Indonesia
 - 🇸🇪 Sweden
 - 🇨🇿 Czech Republic
+- 🇪🇸 Spain
+- 🇦🇺 Australia
 
 ### 3. Data Integrity
 
