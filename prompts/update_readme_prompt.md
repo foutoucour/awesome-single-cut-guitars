@@ -110,6 +110,14 @@ Common flags to use:
 |[Brand Name](https://example.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span> <span title="China">🇨🇳</span>|Model Name|Finish Type|
 ```
 
+## Table Structure
+Both tables should have these columns in order:
+1. **Brand** (with link)
+2. **Country** (flag with alt text)
+3. **Made in** (flag(s) with alt text)
+4. **Single cut model(s)** (model names)
+5. **Finish** (finish types)
+
 ## Notes
 
 - Both tables should be updated: main "Listing" and "Guitar Boutiques"
