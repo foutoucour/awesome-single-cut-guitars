@@ -17,17 +17,18 @@ PS: the models and the finishes are only informative.
 |[Epiphone](https://www.epiphone.com)|<span title="USA">🇺🇸</span>| <span title="China">🇨🇳</span> | Les Paul | Poly |💰|
 |[ESP](https://www.espguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Eclipse USA|Poly|💰💰|
 |[Gibson](https://www.gibson.com/)| <span title="USA">🇺🇸</span> |<span title="USA">🇺🇸</span>| Les Paul| Nitro |💰💰💰|
+|[Gibson Custom Shop](https://www.gibson.com/)| <span title="USA">🇺🇸</span> |<span title="USA">🇺🇸</span>| Les Paul| Nitro |💰💰💰💰💰|
 |[Godin](https://godinguitars.com/)| <span title="Canada">🇨🇦</span>| <span title="Canada">🇨🇦</span> | Summit| Poly |💰|
 |[Hagstrom Guitars](https://www.hagstromguitars.com/)|<span title="Sweden">🇸🇪</span>|<span title="China">🇨🇳</span>| Ultra | Poly |💰💰|
 |[Heritage](https://heritageguitars.com/) |<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|H-150 <br /> H-157| Nitro |💰💰💰|
 |[Kiesel Guitars](https://www.kieselguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|CS6| Poly |💰💰💰|
 |[Maybach](https://maybach-guitars.de) | <span title="Germany">🇩🇪</span>| <span title="Germany">🇩🇪</span>| Lester | Nitro |💰💰💰|
 |[Michael Kelly Guitar](https://www.michaelkellyguitars.com/) | <span title="USA">🇺🇸</span> | <span title="USA">🇺🇸</span> | Patriot Instinct | Poly |💰💰|
-|[Paul Reed Smith (PRS)](https://prsguitars.com/) |<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span> <span title="South Korea">🇰🇷</span>|McCarty|Poly & Nitro|💰💰|
+|[Paul Reed Smith (PRS)](https://prsguitars.com/) |<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span> <span title="South Korea">🇰🇷</span>|McCarty|Poly & Nitro|💰💰💰|
 |[Revelation Guitars](https://www.revelationguitars.co.uk/)|<span title="UK">🇬🇧</span>|<span title="China">🇨🇳</span>|RTL<br /> RLT| Poly |💰|
 |[Schecter Guitars](https://www.schecterguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Solo-II|Poly|💰|
 |[Tokai](https://tokaigakki.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span>| LS <br /> LC| Poly & Nitro |💰💰|
-|[Yamaha](https://www.yamaha.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span> <span title="Indonesia">🇮🇩</span> <span title="China">🇨🇳</span>| Revstar| Poly |💰|
+|[Yamaha](https://www.yamaha.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span> <span title="Indonesia">🇮🇩</span> <span title="China">🇨🇳</span>| Revstar| Poly |💰💰|
 
 ### Guitar Boutiques
 
