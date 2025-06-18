@@ -7,7 +7,7 @@ The guitars are set neck, with curved top.
 
 PS: the models and the finishes are only informative.
 
-|Brand| Country | Made in | Single cut model(s)| Finish| Price Range|
+|Brand| Country | Made in | Model(s)| Finish| <div style="width:130px">Price Range</div>|
 |---|----|----|----|----|--:|
 |[Collings](https://collingsguitars.com/electrics-category/solid-body/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|City Limits (CL)| Nitro | 💰💰💰💰 |
 |[Dean Guitars](https://deanguitars.com) | <span title="USA">🇺🇸</span> | <span title="USA">🇺🇸</span> | Thoroughbred | Poly | 💰💰💰💰 |
@@ -31,7 +31,7 @@ PS: the models and the finishes are only informative.
 
 ### Guitar Boutiques
 
-|Brand| Country |  Single cut model(s)| Finish| Price Range |
+|Brand| Country |  Model(s)| Finish|  <div style="width:130px">Price Range</div> |
 |---|----|----|----|--:|
 |[Agile Guitars](https://www.agileguitars.net/) | <span title="USA">🇺🇸</span> | AL | Poly |💰|
 |[Anderson Guitar Works](https://www.andersonguitarworks.com/) | <span title="USA">🇺🇸</span> | Bobcat | Poly |💰💰💰💰|
