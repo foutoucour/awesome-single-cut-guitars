@@ -43,7 +43,6 @@ PS: the models and the finishes are only informative.
 |[Fibenare](https://www.fibenare-guitars.org/)|<span title="Hungary">🇭🇺</span>|Basic Jazz | Poly |💰|
 |[Gil Yaron Guitars](https://gilyaronguitars.com/)| <span title="USA">🇺🇸</span> | Bone | Nitro |💰💰💰💰💰💰|
 |[Hartung Guitars](https://hartung-guitars.com) | <span title="Germany">🇩🇪</span> | Embrace | Nitro |💰💰💰💰💰💰|
-<!-- |[James Trussart Custom Guitars](https://www.jamestrussart.com) | <span title="USA">🇺🇸</span> | Steeldeville | Other |💰💰💰💰| -->
 |[Jolana Guitars](https://jolanaguitars.com/) | <span title="Czech Republic">🇨🇿</span> | Diamant | Poly |💰💰|
 |[Loic Le Pape](https://loiclepapesteelguitars.com/) | <span title="France">🇫🇷</span> | L Steel P.L | Other |💰💰💰💰|
 |[Monty Guitars Inc.](https://www.montyguitars.com/)| <span title="Canada">🇨🇦</span> | BluesMaster | Nitro |💰💰💰💰|
