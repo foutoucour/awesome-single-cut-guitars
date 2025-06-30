@@ -9,6 +9,7 @@ PS: the models and the finishes are only informative.
 
 |Brand|Country|Made in|Single cut model(s)|Finish|Price Range|
 |---|---|---|---|---|--:|
+|[Aria](https://aria-guitars.com)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span>|PE series|Poly|💰💰|
 |[Carparelli Guitars](https://carparelliguitars.com)|<span title="Canada">🇨🇦</span>|<span title="South Korea">🇰🇷</span>|S4|Poly & Nitro|💰💰|
 |[Collings](https://collingsguitars.com/electrics-category/solid-body/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|City Limits|Nitro|💰💰💰💰|
 |[Dean Guitars](https://deanguitars.com)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Thoroughbred|Poly|💰💰💰💰|
