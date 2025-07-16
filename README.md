@@ -42,6 +42,7 @@ PS: the models and the finishes are only informative.
 |[Anderson Guitar Works](https://www.andersonguitarworks.com/)|<span title="USA">🇺🇸</span>|Bobcat|Poly|💰💰💰💰|
 |[B3](https://themusicemporium.com/collections/b3-guitars)|<span title="USA">🇺🇸</span>|SL|Nitro|💰💰💰💰💰|
 |[Bartlett Guitars](https://www.bartlettguitars.com/)|<span title="UK">🇬🇧</span>|Single Cut|Nitro|💰💰💰💰|
+|[BMC Guitars](https://www.bmcguitars.net/)|<span title="Greece">🇬🇷</span>|Pilgrims|Nitro|💰💰💰💰|
 |[Case Guitars](https://www.caseguitars.co.uk/)|<span title="UK">🇬🇧</span>|J1|Nitro|💰💰💰💰💰|
 |[custom77](https://www.custom77.com/)|<span title="France">🇫🇷</span>|London Burning|Poly|💰💰|
 |[Dirty Elvis Guitars](https://www.dirtyelvisguitars.com/)|<span title="Australia">🇦🇺</span>|Single Cut|Nitro|💰💰💰💰|
@@ -56,7 +57,7 @@ PS: the models and the finishes are only informative.
 |[Moreno Guitars](https://www.morenoguitars.com/)|<span title="Spain">🇪🇸</span>|Single Cut|Nitro|💰💰💰💰💰|
 |[Muller Guitars](https://mullerguitare.fr/)|<span title="France">🇫🇷</span>|Red Apple|Nitro|💰💰💰💰|
 |[Nik Huber Guitars](https://nikhuber-guitars.com/)|<span title="Germany">🇩🇪</span>|Orca <br /> Orca 59|Poly & Nitro|💰💰💰💰💰|
-|[Panucci Guitars](https://guitarlounge.nl/)|<span title="Netherlands">🇳🇱</span>|Inspired series|Nitro|💰💰💰💰|
+|[Panucci Guitars](https://guitarlounge.nl/)|<span title="Netherlands">🇳🇱</span>|Inspired series|Nitro|💰💰💰💰💰|
 |[Patrick James Eggle Guitars](https://www.eggle.co.uk/)|<span title="UK">🇬🇧</span>|Macon Carved Top|Nitro|💰💰💰💰💰|
 |[Pederson Custom Guitars](https://pedersoncustomguitars.com/)|<span title="USA">🇺🇸</span>|Standard Little Drea LD22|Poly|💰💰💰|
 |[Prestige Guitars](https://www.prestigeguitars.com/)|<span title="Canada">🇨🇦</span>|Elite|Poly & Nitro|💰💰💰|
