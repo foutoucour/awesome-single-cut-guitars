@@ -36,33 +36,34 @@ PS: the models and the finishes are only informative.
 
 ### Guitar Boutiques
 
-|Brand|Made in|Single cut model(s)|Finish|Price Range|
+|Brand|Country|Single cut model(s)|Finish|Price Range|
 |---|---|---|---|--:|
-|[Agile Guitars](https://www.agileguitars.net/)|<span title="USA">🇺🇸</span>|AL|Poly|💰|
-|[Anderson Guitar Works](https://www.andersonguitarworks.com/)|<span title="USA">🇺🇸</span>|Bobcat|Poly|💰💰💰💰|
-|[B3](https://themusicemporium.com/collections/b3-guitars)|<span title="USA">🇺🇸</span>|SL|Nitro|💰💰💰💰💰|
-|[Bartlett Guitars](https://www.bartlettguitars.com/)|<span title="UK">🇬🇧</span>|Single Cut|Nitro|💰💰💰💰|
-|[Case Guitars](https://www.caseguitars.co.uk/)|<span title="UK">🇬🇧</span>|J1|Nitro|💰💰💰💰💰|
-|[custom77](https://www.custom77.com/)|<span title="France">🇫🇷</span>|London Burning|Poly|💰💰|
-|[Dirty Elvis Guitars](https://www.dirtyelvisguitars.com/)|<span title="Australia">🇦🇺</span>|Single Cut|Nitro|💰💰💰💰|
-|[Fibenare](https://www.fibenare-guitars.org/)|<span title="Hungary">🇭🇺</span>|Basic Jazz|Poly|💰|
-|[Gil Yaron Guitars](https://gilyaronguitars.com/)|<span title="USA">🇺🇸</span>|Bone|Nitro|💰💰💰💰💰|
-|[Hartung Guitars](https://hartung-guitars.com)|<span title="Germany">🇩🇪</span>|Embrace|Nitro|💰💰💰💰💰|
-|[Johan Gustavsson Guitars](https://www.johangustavssonguitars.com)|<span title="Sweden">🇸🇪</span>|Bluesmaster custom 59'<br />Blues master custom 59' ltd|Nitro|💰💰💰💰💰💰|
-|[Jolana Guitars](https://jolanaguitars.com/)|<span title="Czech Republic">🇨🇿</span>|Diamant|Poly|💰💰|
-|[Loic Le Pape](https://loiclepapesteelguitars.com/)|<span title="France">🇫🇷</span>|L Steel P.L|Other|💰💰💰💰|
-|[Macherson Guitars](https://macphersonguitars.com/)|<span title="Canada">🇨🇦</span>|The preacher|Nitro|💰💰💰💰|
-|[Monty Guitars Inc.](https://www.montyguitars.com/)|<span title="Canada">🇨🇦</span>|BluesMaster|Nitro|💰💰💰💰|
-|[Moreno Guitars](https://www.morenoguitars.com/)|<span title="Spain">🇪🇸</span>|Single Cut|Nitro|💰💰💰💰💰|
-|[Muller Guitars](https://mullerguitare.fr/)|<span title="France">🇫🇷</span>|Red Apple|Nitro|💰💰💰💰|
-|[Nik Huber Guitars](https://nikhuber-guitars.com/)|<span title="Germany">🇩🇪</span>|Orca <br /> Orca 59|Poly & Nitro|💰💰💰💰💰|
-|[Patrick James Eggle Guitars](https://www.eggle.co.uk/)|<span title="UK">🇬🇧</span>|Macon Carved Top|Nitro|💰💰💰💰💰|
-|[Pederson Custom Guitars](https://pedersoncustomguitars.com/)|<span title="USA">🇺🇸</span>|Standard Little Drea LD22|Poly|💰💰💰|
-|[Prestige Guitars](https://www.prestigeguitars.com/)|<span title="Canada">🇨🇦</span>|Elite|Poly & Nitro|💰💰💰|
-|[Ruokangas Guitars](https://ruokangas.com)|<span title="Finland">🇫🇮</span>|Unicorn|Poly|💰💰💰💰💰|
-|[Springer Guitars](https://www.springerguitars.com/)|<span title="France">🇫🇷</span>|Seraph <br />Seraph VNS|Nitro|💰💰💰💰💰|
-|[StephanS Guitars](https://www.stefanovicsacha.fr)|<span title="France">🇫🇷</span>|LP-52 <br /> LP-59|Nitro|💰💰💰💰💰|
-|[Steve Hague Guitars](https://www.stevehagueguitars.com/)|<span title="UK">🇬🇧</span>|Replica|Nitro|💰💰💰💰💰|
-|[Sully Guitars](https://www.sullyguitars.com/)|<span title="USA">🇺🇸</span>|'71 Trella LS|Nitro|💰💰💰💰|
-|[Torn Guitars](https://www.thornguitars.com/guitars)|<span title="USA">🇺🇸</span>|Florentine Singularis|Nitro|💰💰💰💰|
-|[Valiant Guitars](https://valiantguitars.com/)|<span title="Ukraine">🇺🇦</span>|Valiant Guitars Smith|Nitro|💰💰💰💰|
+|[Agile Guitars](https://www.agileguitars.net/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|AL|Poly|💰|
+|[Anderson Guitar Works](https://www.andersonguitarworks.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Bobcat|Poly|💰💰💰💰|
+|[B3](https://themusicemporium.com/collections/b3-guitars)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|SL|Nitro|💰💰💰💰💰|
+|[Bartlett Guitars](https://www.bartlettguitars.com/)|<span title="UK">🇬🇧</span>|<span title="UK">🇬🇧</span>|Single Cut|Nitro|💰💰💰💰|
+|[Case Guitars](https://www.caseguitars.co.uk/)|<span title="UK">🇬🇧</span>|<span title="UK">🇬🇧</span>|J1|Nitro|💰💰💰💰💰|
+|[custom77](https://www.custom77.com/)|<span title="France">🇫🇷</span>|<span title="France">🇫🇷</span>|London Burning|Poly|💰💰|
+|[Dirty Elvis Guitars](https://www.dirtyelvisguitars.com/)|<span title="Australia">🇦🇺</span>|<span title="Australia">🇦🇺</span>|Single Cut|Nitro|💰💰💰💰|
+|[Fibenare](https://www.fibenare-guitars.org/)|<span title="Hungary">🇭🇺</span>|<span title="Hungary">🇭🇺</span>|Basic Jazz|Poly|💰|
+|[Gil Yaron Guitars](https://gilyaronguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Bone|Nitro|💰💰💰💰💰|
+|[Hartung Guitars](https://hartung-guitars.com)|<span title="Germany">🇩🇪</span>|<span title="Germany">🇩🇪</span>|Embrace|Nitro|💰💰💰💰💰|
+|[Johan Gustavsson Guitars](http://www.jgguitars.com/)|<span title="Sweden">🇸🇪</span>|<span title="Sweden">🇸🇪</span>|Bluesmaster custom 59'<br />Blues master custom 59' ltd|Nitro|💰💰💰💰💰💰|
+|[Jolana Guitars](https://jolanaguitars.com/)|<span title="Czech Republic">🇨🇿</span>|<span title="Czech Republic">🇨🇿</span>|Diamant|Poly|💰💰|
+|[Loic Le Pape](https://loiclepapesteelguitars.com/)|<span title="France">🇫🇷</span>|<span title="France">🇫🇷</span>|L Steel P.L|Other|💰💰💰💰|
+|[Macherson Guitars](https://macphersonguitars.com/)|<span title="Canada">🇨🇦</span>|<span title="Canada">🇨🇦</span>|The preacher|Nitro|💰💰💰💰|
+|[Monty Guitars Inc.](https://www.montyguitars.com/)|<span title="Canada">🇨🇦</span>|<span title="Canada">🇨🇦</span>|BluesMaster|Nitro|💰💰💰💰|
+|[Moreno Guitars](https://www.morenoguitars.com/)|<span title="Spain">🇪🇸</span>|<span title="Spain">🇪🇸</span>|Single Cut|Nitro|💰💰💰💰💰|
+|[Muller Guitars](https://mullerguitare.fr/)|<span title="France">🇫🇷</span>|<span title="France">🇫🇷</span>|Red Apple|Nitro|💰💰💰💰|
+|[Nik Huber Guitars](https://nikhuber-guitars.com/)|<span title="Germany">🇩🇪</span>|<span title="Germany">🇩🇪</span>|Orca <br /> Orca 59|Poly & Nitro|💰💰💰💰💰|
+|[Panucci Guitars](https://guitarlounge.nl/)|<span title="Netherlands">🇳🇱</span>|<span title="Netherlands">🇳🇱</span>|Inspired series|Nitro|💰💰💰💰|
+|[Patrick James Eggle Guitars](https://www.eggle.co.uk/)|<span title="UK">🇬🇧</span>|<span title="UK">🇬🇧</span>|Macon Carved Top|Nitro|💰💰💰💰💰|
+|[Pederson Custom Guitars](https://pedersoncustomguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Standard Little Drea LD22|Poly|💰💰💰|
+|[Prestige Guitars](https://www.prestigeguitars.com/)|<span title="Canada">🇨🇦</span>|<span title="Canada">🇨🇦</span>|Elite|Poly & Nitro|💰💰💰|
+|[Ruokangas Guitars](https://ruokangas.com)|<span title="Finland">🇫🇮</span>|<span title="Finland">🇫🇮</span>|Unicorn|Poly & Nitro|💰💰💰💰💰|
+|[Springer Guitars](https://www.springerguitars.com/)|<span title="France">🇫🇷</span>|<span title="France">🇫🇷</span>|Seraph <br />Seraph VNS|Nitro|💰💰💰💰💰|
+|[StephanS Guitars](https://www.stefanovicsacha.fr)|<span title="France">🇫🇷</span>|<span title="France">🇫🇷</span>|LP-52 <br /> LP-59|Nitro|💰💰💰💰💰|
+|[Steve Hague Guitars](https://www.stevehagueguitars.com/)|<span title="UK">🇬🇧</span>|<span title="UK">🇬🇧</span>|Replica|Nitro|💰💰💰💰💰|
+|[Sully Guitars](https://www.sullyguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|'71 Trella LS|Nitro|💰💰💰💰|
+|[Torn Guitars](https://www.thornguitars.com/guitars)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Florentine Singularis|Nitro|💰💰💰💰|
+|[Valiant Guitars](https://valiantguitars.com/)|<span title="Ukraine">🇺🇦</span>|<span title="Ukraine">🇺🇦</span>|Valiant Guitars Smith|Nitro|💰💰💰💰|

@@ -126,7 +126,9 @@ Common flags to use:
 ```
 
 ## Table Structure
-Both tables should have these columns in order:
+
+### Main "Listing" Table
+The main listing table should have these columns in order:
 1. **Brand** (with link)
 2. **Country** (flag with alt text)
 3. **Made in** (flag(s) with alt text)
@@ -134,11 +136,20 @@ Both tables should have these columns in order:
 5. **Finish** (finish types)
 6. **Price Range** (money emojis, right-aligned)
 
+### "Guitar Boutiques" Table
+The Guitar Boutiques table should have these columns in order (no "Made in" column):
+1. **Brand** (with link)
+2. **Country** (flag with alt text)
+3. **Single cut model(s)** (model names)
+4. **Finish** (finish types)
+5. **Price Range** (money emojis, right-aligned)
+
 ## Notes
 
 - Both tables should be updated: main "Listing" and "Guitar Boutiques"
+- **Important**: The "Guitar Boutiques" table does NOT include a "Made in" column, only the main "Listing" table has this column
 - If a brand has incomplete country information, research and fill in missing data when possible
-- Maintain the existing table structure and column order 
+- Maintain the existing table structure and column order for each respective table 
 - **Flag formatting**: Always use HTML span elements with title attributes for accessibility
 - **Multiple countries**: Separate flags with spaces only, no commas or other punctuation
 - **Price ranges**: Use consistent emoji-based system for visual clarity
