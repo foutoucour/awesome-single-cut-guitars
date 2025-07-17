@@ -5,7 +5,8 @@ The guitars are set neck, with curved top.
 
 ## Listing
 
-PS: the models and the finishes are only informative.
+> [!Note] 
+> The models, the prices and the finishes are only informative.
 
 |Brand|Country|Made in|Single cut model(s)|Finish|Price Range|
 |---|---|---|---|---|--:|
@@ -27,6 +28,7 @@ PS: the models and the finishes are only informative.
 |[Kiesel Guitars](https://www.kieselguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|CS6|Poly|💰💰💰|
 |[Maybach](https://maybach-guitars.de)|<span title="Germany">🇩🇪</span>|<span title="Germany">🇩🇪</span>|Lester|Nitro|💰💰💰|
 |[Michael Kelly Guitar](https://www.michaelkellyguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Patriot Instinct|Poly|💰💰|
+|[Patrick James Eggle Guitars](https://www.eggle.co.uk/)|<span title="UK">🇬🇧</span>|<span title="UK">🇬🇧</span>|Macon Carved Top|Nitro|💰💰💰💰💰|
 |[Paul Reed Smith (PRS)](https://prsguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span> <span title="South Korea">🇰🇷</span>|McCarty|Poly & Nitro|💰💰💰|
 |[Revelation Guitars](https://www.revelationguitars.co.uk/)|<span title="UK">🇬🇧</span>|<span title="China">🇨🇳</span>|RTL<br /> RLT|Poly|💰|
 |[Schecter Guitars](https://www.schecterguitars.com/)|<span title="USA">🇺🇸</span>|<span title="USA">🇺🇸</span>|Solo-II|Poly|💰|
@@ -42,23 +44,27 @@ PS: the models and the finishes are only informative.
 |[Anderson Guitar Works](https://www.andersonguitarworks.com/)|<span title="USA">🇺🇸</span>|Bobcat|Poly|💰💰💰💰|
 |[B3](https://themusicemporium.com/collections/b3-guitars)|<span title="USA">🇺🇸</span>|SL|Nitro|💰💰💰💰💰|
 |[Bartlett Guitars](https://www.bartlettguitars.com/)|<span title="UK">🇬🇧</span>|Single Cut|Nitro|💰💰💰💰|
+|[Bizen Works](https://bizen-works.com/)|<span title="Japan">🇯🇵</span>|Burned|Nitro|💰💰💰💰💰|
 |[BMC Guitars](https://www.bmcguitars.net/)|<span title="Greece">🇬🇷</span>|Pilgrims|Nitro|💰💰💰💰|
 |[Case Guitars](https://www.caseguitars.co.uk/)|<span title="UK">🇬🇧</span>|J1|Nitro|💰💰💰💰💰|
 |[custom77](https://www.custom77.com/)|<span title="France">🇫🇷</span>|London Burning|Poly|💰💰|
 |[Dirty Elvis Guitars](https://www.dirtyelvisguitars.com/)|<span title="Australia">🇦🇺</span>|Single Cut|Nitro|💰💰💰💰|
 |[Fibenare](https://www.fibenare-guitars.org/)|<span title="Hungary">🇭🇺</span>|Basic Jazz|Poly|💰|
+|[FGN](https://fgnguitars.com/)|<span title="Japan">🇯🇵</span>|Neo Classic Single Cut|Poly|💰💰|
 |[Gil Yaron Guitars](https://gilyaronguitars.com/)|<span title="USA">🇺🇸</span>|Bone|Nitro|💰💰💰💰💰|
 |[Hartung Guitars](https://hartung-guitars.com)|<span title="Germany">🇩🇪</span>|Embrace|Nitro|💰💰💰💰💰|
+|[Huss & Dalton](https://hussanddalton.com/)|<span title="USA">🇺🇸</span>|Statesboro|Poly|💰💰💰💰|
 |[Johan Gustavsson Guitars](http://www.jgguitars.com/)|<span title="Sweden">🇸🇪</span>|Bluesmaster custom 59'<br />Blues master custom 59' ltd|Nitro|💰💰💰💰💰💰|
 |[Jolana Guitars](https://jolanaguitars.com/)|<span title="Czech Republic">🇨🇿</span>|Diamant|Poly|💰💰|
 |[Loic Le Pape](https://loiclepapesteelguitars.com/)|<span title="France">🇫🇷</span>|L Steel P.L|Other|💰💰💰💰|
+|[Lorenzi](https://lorenzi-guitar.com/)|<span title="Italy">🇮🇹</span>|SC Models|Nitro|💰💰💰💰|
 |[Macherson Guitars](https://macphersonguitars.com/)|<span title="Canada">🇨🇦</span>|The preacher|Nitro|💰💰💰💰|
+|[Mithans Guitars](https://mithansguitars.com/home)|<span title="Slovenia">🇸🇮</span>|Berlin<br />Valira<br />Babylon<br />Kyoto|Poly|💰💰💰|
 |[Monty Guitars Inc.](https://www.montyguitars.com/)|<span title="Canada">🇨🇦</span>|BluesMaster|Nitro|💰💰💰💰|
 |[Moreno Guitars](https://www.morenoguitars.com/)|<span title="Spain">🇪🇸</span>|Single Cut|Nitro|💰💰💰💰💰|
 |[Muller Guitars](https://mullerguitare.fr/)|<span title="France">🇫🇷</span>|Red Apple|Nitro|💰💰💰💰|
 |[Nik Huber Guitars](https://nikhuber-guitars.com/)|<span title="Germany">🇩🇪</span>|Orca <br /> Orca 59|Poly & Nitro|💰💰💰💰💰|
 |[Panucci Guitars](https://guitarlounge.nl/)|<span title="Netherlands">🇳🇱</span>|Inspired series|Nitro|💰💰💰💰💰|
-|[Patrick James Eggle Guitars](https://www.eggle.co.uk/)|<span title="UK">🇬🇧</span>|Macon Carved Top|Nitro|💰💰💰💰💰|
 |[Pederson Custom Guitars](https://pedersoncustomguitars.com/)|<span title="USA">🇺🇸</span>|Standard Little Drea LD22|Poly|💰💰💰|
 |[Prestige Guitars](https://www.prestigeguitars.com/)|<span title="Canada">🇨🇦</span>|Elite|Poly & Nitro|💰💰💰|
 |[Ruokangas Guitars](https://ruokangas.com)|<span title="Finland">🇫🇮</span>|Unicorn|Poly & Nitro|💰💰💰💰💰|
