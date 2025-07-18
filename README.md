@@ -41,7 +41,9 @@ The guitars are set neck, with curved top.
 |Brand|Country|Single cut model(s)|Finish|Price Range|
 |---|---|---|---|--:|
 |[Agile Guitars](https://www.agileguitars.net/)|<span title="USA">🇺🇸</span>|AL|Poly|💰|
+|[Alternative Guitare](https://www.alternativeguitare.fr/)|<span title="France">🇫🇷</span>|20-20<br />La MiragE|Nitro|💰💰💰💰💰|
 |[Anderson Guitar Works](https://www.andersonguitarworks.com/)|<span title="USA">🇺🇸</span>|Bobcat|Poly|💰💰💰💰|
+|[Aubailly Guitars](https://www.aubailly-guitars.com)|<span title="France">🇫🇷</span>|LP|Nitro|💰💰💰💰💰|
 |[B3](https://themusicemporium.com/collections/b3-guitars)|<span title="USA">🇺🇸</span>|SL|Nitro|💰💰💰💰💰|
 |[Bartlett Guitars](https://www.bartlettguitars.com/)|<span title="UK">🇬🇧</span>|Single Cut|Nitro|💰💰💰💰|
 |[Bizen Works](https://bizen-works.com/)|<span title="Japan">🇯🇵</span>|Burned|Nitro|💰💰💰💰💰|
@@ -56,10 +58,13 @@ The guitars are set neck, with curved top.
 |[Huss & Dalton](https://hussanddalton.com/)|<span title="USA">🇺🇸</span>|Statesboro|Poly|💰💰💰💰|
 |[Johan Gustavsson Guitars](http://www.jgguitars.com/)|<span title="Sweden">🇸🇪</span>|Bluesmaster custom 59'<br />Blues master custom 59' ltd|Nitro|💰💰💰💰💰💰|
 |[Jolana Guitars](https://jolanaguitars.com/)|<span title="Czech Republic">🇨🇿</span>|Diamant|Poly|💰💰|
+|[K-Line](https://k-lineguitars.com/)|<span title="USA">🇺🇸</span>|KL59/60|Nitro|💰💰💰💰|
 |[Loic Le Pape](https://loiclepapesteelguitars.com/)|<span title="France">🇫🇷</span>|L Steel P.L|Other|💰💰💰💰|
 |[Lorenzi](https://lorenzi-guitar.com/)|<span title="Italy">🇮🇹</span>|SC Models|Nitro|💰💰💰💰|
+|[Lutherie Blondeau](https://lutherieblondeau.wixsite.com/lutherie-blondeau/electriques)|<span title="France">🇫🇷</span>|Les Paul|Nitro|💰💰💰💰|
 |[Macherson Guitars](https://macphersonguitars.com/)|<span title="Canada">🇨🇦</span>|The preacher|Nitro|💰💰💰💰|
 |[Mithans Guitars](https://mithansguitars.com/home)|<span title="Slovenia">🇸🇮</span>|Berlin<br />Valira<br />Babylon<br />Kyoto|Poly|💰💰💰|
+|[Momose](https://www.deviser.co.jp/en/momose)|<span title="Japan">🇯🇵</span>|ML1-STD/R|Nitro|💰💰💰💰|
 |[Monty Guitars Inc.](https://www.montyguitars.com/)|<span title="Canada">🇨🇦</span>|BluesMaster|Nitro|💰💰💰💰|
 |[Moreno Guitars](https://www.morenoguitars.com/)|<span title="Spain">🇪🇸</span>|Single Cut|Nitro|💰💰💰💰💰|
 |[Muller Guitars](https://mullerguitare.fr/)|<span title="France">🇫🇷</span>|Red Apple|Nitro|💰💰💰💰|
