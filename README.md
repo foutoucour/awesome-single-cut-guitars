@@ -70,7 +70,6 @@ The guitars are set neck, with curved top.
 |[Muller Guitars](https://mullerguitare.fr/)|<span title="France">🇫🇷</span>|Red Apple|Nitro|💰💰💰💰|
 |[Nik Huber Guitars](https://nikhuber-guitars.com/)|<span title="Germany">🇩🇪</span>|Orca <br /> Orca 59|Poly & Nitro|💰💰💰💰💰|
 |[Panucci Guitars](https://guitarlounge.nl/)|<span title="Netherlands">🇳🇱</span>|Inspired series|Nitro|💰💰💰💰|
-|[Patrick James Eggle Guitars](https://www.eggle.co.uk/)|<span title="UK">🇬🇧</span>|Macon Carved Top|Nitro|💰💰💰💰💰|
 |[Pederson Custom Guitars](https://pedersoncustomguitars.com/)|<span title="USA">🇺🇸</span>|Standard Little Drea LD22|Poly|💰💰💰|
 |[Prestige Guitars](https://www.prestigeguitars.com/)|<span title="Canada">🇨🇦</span>|Elite|Poly & Nitro|💰💰💰|
 |[Ruokangas Guitars](https://ruokangas.com)|<span title="Finland">🇫🇮</span>|Unicorn|Poly & Nitro|💰💰💰💰💰|
