@@ -3,10 +3,10 @@
 List of guitar brand selling single cut guitars, like Gibson Les Paul.
 The guitars are set neck, with curved top.
 
-## Major Brands
-
 > [!Note]
 > The models, the prices and the finishes are only informative.
+
+## Major Brands
 
 |Brand|Country|Made in|Single cut model(s)|Finish|Price Range|
 |---|---|---|---|---|--:|
