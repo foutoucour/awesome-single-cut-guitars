@@ -3,7 +3,7 @@
 List of guitar brand selling single cut guitars, like Gibson Les Paul.
 The guitars are set neck, with curved top.
 
-## Listing
+## Major Brands
 
 > [!Note]
 > The models, the prices and the finishes are only informative.
@@ -36,7 +36,7 @@ The guitars are set neck, with curved top.
 |[Tokai](https://tokaigakki.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span>|LS <br /> LC|Poly & Nitro|💰💰💰|
 |[Yamaha](https://www.yamaha.com/)|<span title="Japan">🇯🇵</span>|<span title="Japan">🇯🇵</span> <span title="Indonesia">🇮🇩</span> <span title="China">🇨🇳</span>|Revstar|Poly|💰💰|
 
-### Guitar Boutiques
+## Guitar Boutiques
 
 |Brand|Country|Single cut model(s)|Finish|Price Range|
 |---|---|---|---|--:|
