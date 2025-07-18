@@ -44,12 +44,13 @@ Common flags to use:
 ### 3. Price Range Management
 
 - **Include a "Price Range" column** in both tables as the last column
-- **Use a 5-tier system** represented by money emojis (💰):
+- **Use a 6-tier system** represented by money emojis (💰):
   - 💰 = Budget (Under $500)
-  - 💰💰 = Entry-level ($500 - $1,000)
-  - 💰💰💰 = Mid-range ($1,000 - $2,500)
-  - 💰💰💰💰 = High-end ($2,500 - $5,000)
-  - 💰💰💰💰💰 = Premium ($5,000+)
+  - 💰💰 = Entry-Level ($500 - $1,000)
+  - 💰💰💰 = Mid-Range ($1,000 - $2,000)
+  - 💰💰💰💰 = Premium ($2,000 - $4,000)
+  - 💰💰💰💰💰 = High-End ($4,000 - $8,000)
+  - 💰💰💰💰💰💰 = Ultra-Premium ($8,000+)
 - **For boutique/custom builders**: Default to 💰💰💰💰 or 💰💰💰💰💰 unless specific pricing is known
 - **Maintain existing price ratings** when updating tables
 - **Research pricing** for new entries when adding brands
@@ -152,6 +153,15 @@ The Guitar Boutiques table should have these columns in order (no "Made in" colu
 - Maintain the existing table structure and column order for each respective table 
 - **Flag formatting**: Always use HTML span elements with title attributes for accessibility
 - **Multiple countries**: Separate flags with spaces only, no commas or other punctuation
-- **Price ranges**: Use consistent emoji-based system for visual clarity
+- **Price ranges**: Use consistent 6-tier emoji-based system for visual clarity
 - **Priority**: URL validation should be done regularly (quarterly or when adding new entries) to maintain link quality
 - **Priority**: Entry uniqueness should be checked every time new brands are added to prevent duplicates
+
+## Price Range Reference
+
+- 💰 = Budget (Under $500)
+- 💰💰 = Entry-Level ($500 - $1,000)
+- 💰💰💰 = Mid-Range ($1,000 - $2,000)
+- 💰💰💰💰 = Premium ($2,000 - $4,000)
+- 💰💰💰💰💰 = High-End ($4,000 - $8,000)
+- 💰💰💰💰💰💰 = Ultra-Premium ($8,000+)
