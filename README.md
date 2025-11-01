@@ -1,10 +1,10 @@
 # awesome-single-cut-guitars
 
-List of guitar brand selling single cut guitars, like Gibson Les Paul.
-The guitars are set neck, with curved top.
+List of guitar brands selling single-cut guitars, like Gibson Les Paul.
+The guitars feature set-neck designs with curved tops.
 
 > [!Note]
-> The models, the prices and the finishes are only informative.
+The models, prices, and finishes are only informative.
 
 ## Major Brands
 
@@ -49,13 +49,14 @@ The guitars are set neck, with curved top.
 | [Bizen Works](https://bizen-works.com/)                                                 | <span title="Japan">🇯🇵</span>          | Burned                                                  | Nitro        |   💰💰💰💰💰 |
 | [BMC Guitars](https://www.bmcguitars.net/)                                              | <span title="Greece">🇬🇷</span>         | Pilgrims                                                | Nitro        |     💰💰💰💰 |
 | [Case Guitars](https://www.caseguitars.co.uk/)                                          | <span title="UK">🇬🇧</span>             | J1                                                      | Nitro        |   💰💰💰💰💰 |
-| [custom77](https://www.custom77.com/)                                                   | <span title="France">🇫🇷</span>         | London Burning                                          | Poly         |       💰💰💰 |
+| [Custom77](https://www.custom77.com/)                                                   | <span title="France">🇫🇷</span>         | London Burning                                          | Poly         |       💰💰💰 |
 | [Dirty Elvis Guitars](https://www.dirtyelvisguitars.com/)                               | <span title="Australia">🇦🇺</span>      | Single Cut                                              | Nitro        |     💰💰💰💰 |
 | [Fibenare](https://www.fibenare-guitars.org/)                                           | <span title="Hungary">🇭🇺</span>        | Basic Jazz                                              | Poly         |         💰💰 |
 | [FGN](https://fgnguitars.com/)                                                          | <span title="Japan">🇯🇵</span>          | Neo Classic Single Cut                                  | Poly         |       💰💰💰 |
 | [Gil Yaron Guitars](https://gilyaronguitars.com/)                                       | <span title="USA">🇺🇸</span>            | Bone                                                    | Nitro        |   💰💰💰💰💰 |
 | [Hartung Guitars](https://hartung-guitars.com)                                          | <span title="Germany">🇩🇪</span>        | Embrace                                                 | Nitro        |   💰💰💰💰💰 |
 | [Huss & Dalton](https://hussanddalton.com/)                                             | <span title="USA">🇺🇸</span>            | Statesboro                                              | Poly         |     💰💰💰💰 |
+| [Ivison Guitars](https://www.ivisonguitars.com/)                                    | <span title="UK">🇬🇧</span>             | Dakota<br/>Hurricane                                              | Nitro        |     💰💰💰💰💰 |
 | [Johan Gustavsson Guitars](http://www.jgguitars.com/)                                   | <span title="Sweden">🇸🇪</span>         | Bluesmaster custom 59'<br />Blues master custom 59' ltd | Nitro        | 💰💰💰💰💰💰 |
 | [Jolana Guitars](https://jolanaguitars.com/)                                            | <span title="Czech Republic">🇨🇿</span> | Diamant                                                 | Poly         |         💰💰 |
 | [K-Line](https://k-lineguitars.com/)                                                    | <span title="USA">🇺🇸</span>            | KL59/60                                                 | Nitro        |     💰💰💰💰 |
@@ -97,4 +98,4 @@ The price ranges use a 6-tier system represented by money emojis (💰):
 - 💰💰💰💰💰💰 = Ultra-Premium ($8,000+)
 
 > [!Note]
-> Prices are approximate and based on new guitar retail prices. Used guitars, regional variations, and specific models may vary significantly from these ranges.
+Prices are approximate and based on the retail prices of new guitars. Used guitars, regional variations, and specific models may vary significantly from these ranges.
