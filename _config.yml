@@ -1,0 +1,6 @@
+title: Awesome Single Cut Guitars
+markdown: kramdown
+theme: time-machine
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
