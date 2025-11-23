@@ -45,7 +45,7 @@ The models, prices, and finishes are only informative.
 | [Anderson Guitar Works](https://www.andersonguitarworks.com/) | 🇺🇸 | Bobcat | Poly | 💰💰💰💰 |
 | [Aubailly Guitars](https://www.aubailly-guitars.com) | 🇫🇷 | LP | Nitro | 💰💰💰💰💰 |
 | [B3](https://themusicemporium.com/collections/b3-guitars) | 🇺🇸 | SL | Nitro | 💰💰💰💰💰 |
-| [Bartlett Guitars](https://www.bartlettguitars.com/) | 🇬🇧 | Single Cut | Nitro | 💰💰💰💰 |
+| [Bartlett Guitars](https://www.bartlettguitars.com/) | 🇨🇦 | Retrospec | Nitro | 💰💰💰💰 |
 | [Bizen Works](https://bizen-works.com/) | 🇯🇵 | Burned | Nitro | 💰💰💰💰💰 |
 | [BMC Guitars](https://www.bmcguitars.net/) | 🇬🇷 | Pilgrims | Nitro | 💰💰💰💰 |
 | [Case Guitars](https://www.caseguitars.co.uk/) | 🇬🇧 | J1 | Nitro | 💰💰💰💰💰 |
