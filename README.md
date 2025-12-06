@@ -76,9 +76,10 @@ The models, prices, and finishes are only informative.
 | [Pederson Custom Guitars](https://pedersoncustomguitars.com/) | 🇺🇸 | Standard Little Drea LD22 | Poly | 💰💰💰 |
 | [Prestige Guitars](https://www.prestigeguitars.com/) | 🇨🇦 | Elite | Poly & Nitro | 💰💰💰 |
 | [Ruokangas Guitars](https://ruokangas.com) | 🇫🇮 | Unicorn | Poly & Nitro | 💰💰💰💰💰 |
+| [Schwarz Custom](https://www.schwarz-custom.de/) | 🇩🇪 | St Helen | Nitro | 💰💰💰💰💰 |
+| [Scott Wilkinson (ExNihilo)](https://www.mylespaul.com/members/exnihilo.10077/) | 🇨🇦 | Les Paul Replica, LPSG | Nitro | 💰💰💰💰 |
 | [Sonic Guitars](https://reverb.com/shop/paolos-gear-locker-8) | 🇮🇹 | GT-57, Burstone59 | Nitro | 💰💰💰💰 |
 | [Springer Guitars](https://www.springerguitars.com/) | 🇫🇷 | Seraph, Seraph VNS | Nitro | 💰💰💰💰💰 |
-| [Schwarz Custom](https://www.schwarz-custom.de/) | 🇩🇪 | St Helen | Nitro | 💰💰💰💰💰 |
 | [StephanS Guitars](https://www.stefanovicsacha.fr) | 🇫🇷 | LP-52, LP-59 | Nitro | 💰💰💰💰💰 |
 | Steve Hague Guitars | 🇬🇧 | Replica | Nitro | 💰💰💰💰💰 |
 | [Sully Guitars](https://www.sullyguitars.com/) | 🇺🇸 | '71 Trella LS | Nitro | 💰💰💰💰 |
