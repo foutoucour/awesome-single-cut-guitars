@@ -54,6 +54,7 @@ The models, prices, and finishes are only informative.
 | [Fibenare](https://www.fibenare-guitars.org/) | 🇭🇺 | Basic Jazz | Poly | 💰💰 |
 | [FGN](https://fgnguitars.com/) | 🇯🇵 | Neo Classic Single Cut | Poly | 💰💰💰 |
 | [Gil Yaron Guitars](https://gilyaronguitars.com/) | 🇺🇸 | Bone | Nitro | 💰💰💰💰💰 |
+| [Giordano Custom Guitars](https://www.facebook.com/GiordanoGuitars) | 🇮🇹 | Tributo | Nitro | 💰💰💰💰💰 |
 | [Hartung Guitars](https://hartung-guitars.com) | 🇩🇪 | Embrace | Nitro | 💰💰💰💰💰 |
 | [Huss & Dalton](https://hussanddalton.com/) | 🇺🇸 | Statesboro | Poly | 💰💰💰💰 |
 | [Ivison Guitars](https://www.ivisonguitars.com/) | 🇬🇧 | Dakota, Hurricane | Nitro | 💰💰💰💰💰 |
