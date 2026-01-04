@@ -70,6 +70,7 @@ The models, prices, and finishes are only informative.
 | [Momose](https://www.deviser.co.jp/en/momose) | 🇯🇵 | ML1-STD/R | Nitro | 💰💰💰💰 |
 | [Monty Guitars Inc.](https://www.montyguitars.com/) | 🇨🇦 | BluesMaster | Nitro | 💰💰💰💰 |
 | [Moreno Guitars](https://www.morenoguitars.com/) | 🇪🇸 | Single Cut | Nitro | 💰💰💰💰💰 |
+| [Morifone](https://morifone.com/) | 🇨🇦 | Quarzo | Nitro | 💰💰💰💰 |
 | [Muller Guitars](https://mullerguitare.fr/) | 🇫🇷 | Red Apple | Nitro | 💰💰💰💰 |
 | [Nik Huber Guitars](https://nikhuber-guitars.com/) | 🇩🇪 | Orca, Orca 59 | Poly & Nitro | 💰💰💰💰💰 |
 | [Panucci Guitars](https://guitarlounge.nl/) | 🇳🇱 | Inspired series | Nitro | 💰💰💰💰 |
