@@ -66,6 +66,7 @@ The models, prices, and finishes are only informative.
 | [Lorenzi](https://lorenzi-guitar.com/) | 🇮🇹 | SC Models | Nitro | 💰💰💰💰 |
 | [Lutherie Blondeau](https://lutherieblondeau.wixsite.com/lutherie-blondeau/electriques) | 🇫🇷 | Les Paul | Nitro | 💰💰💰💰 |
 | [Macherson Guitars](https://macphersonguitars.com/) | 🇨🇦 | The preacher | Nitro | 💰💰💰💰 |
+| [Marceau Guitars](https://marceauguitars.com/) | 🇫🇷 | Dominante | Nitro | 💰💰💰💰 |
 | [Mithans Guitars](https://mithansguitars.com/home) | 🇸🇮 | Berlin, Valira, Babylon, Kyoto | Poly | 💰💰💰 |
 | [Momose](https://www.deviser.co.jp/en/momose) | 🇯🇵 | ML1-STD/R | Nitro | 💰💰💰💰 |
 | [Monty Guitars Inc.](https://www.montyguitars.com/) | 🇨🇦 | BluesMaster | Nitro | 💰💰💰💰 |
