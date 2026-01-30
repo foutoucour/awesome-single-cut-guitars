@@ -57,6 +57,7 @@ The models, prices, and finishes are only informative.
 | [Giordano Custom Guitars](https://www.facebook.com/GiordanoGuitars) | 🇮🇹 | Tributo | Nitro | 💰💰💰💰💰 |
 | [Hartung Guitars](https://hartung-guitars.com) | 🇩🇪 | Embrace | Nitro | 💰💰💰💰💰 |
 | [Huss & Dalton](https://hussanddalton.com/) | 🇺🇸 | Statesboro | Poly | 💰💰💰💰 |
+| [Iconic Guitars](https://iconicguitars.com) | 🇺🇸 | La Playa | Nitro | 💰💰💰💰💰💰 |
 | [Ivison Guitars](https://www.ivisonguitars.com/) | 🇬🇧 | Dakota, Hurricane | Nitro | 💰💰💰💰💰 |
 | [Johan Gustavsson Guitars](http://www.jgguitars.com/) | 🇸🇪 | Bluesmaster custom 59', Blues master custom 59' ltd | Nitro | 💰💰💰💰💰💰 |
 | [Jolana Guitars](https://jolanaguitars.com/) | 🇨🇿 | Diamant | Poly | 💰💰 |
