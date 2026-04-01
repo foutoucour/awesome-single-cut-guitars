@@ -40,18 +40,20 @@
 - [ ] Capacitors & wire from [amazon.ca](https://amazon.ca)
     - [ ] Sprague Orange Drop 715P 0.022 µF tone capacitors
     - [ ] Gavitt 22 AWG cloth pushback hook-up wire
-- [ ] Finishing supplies from various sources (see table above)
-    - [ ] Grain filler — Timbermate Natural
-    - [ ] TransTint dye — Golden Amber
-    - [ ] Mica powder — Pearl Ex Antique Gold or Copper
-    - [ ] Birchwood Casey Tru-Oil — 8 oz
-    - [ ] Steel wool 0000
-    - [ ] Sandpaper assortment (150, 220, 320, 400, 600)
-    - [ ] Wet/dry sandpaper — fine grits (800, 1000, 1500, 2000)
-    - [ ] Meguiar's Ultimate Compound
-    - [ ] Meguiar's Ultimate Polish
-    - [ ] Microfibre cloths
-- [ ] Flame maple test samples from [edcofinewoods.ca](https://edcofinewoods.ca)
+- [x] Finishing supplies from various sources (see table above)
+    - [x] Grain filler — Timbermate Natural
+    - [x] TransTint dye — Golden Amber
+    - [x] Mica powder — Pearl Ex
+        - [ ] Antique Gold
+        - [x] Copper
+    - [x] Birchwood Casey Tru-Oil — 8 oz
+    - [x] Steel wool 0000
+    - [x] Sandpaper assortment (150, 220, 320, 400, 600)
+    - [x] Wet/dry sandpaper — fine grits (800, 1000, 1500, 2000)
+    - [x] Meguiar's Ultimate Compound
+    - [x] Meguiar's Ultimate Polish
+    - [x] Microfibre cloths
+- [x] Flame maple test samples from [edcofinewoods.ca](https://edcofinewoods.ca)
 
 ___
 <details>
