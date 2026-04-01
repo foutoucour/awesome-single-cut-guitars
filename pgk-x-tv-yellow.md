@@ -12,7 +12,7 @@
     - [ ] black pickguard
     - [ ] black cavity covers
 - [ ] Dark Phoenix — set Firebird style [pegcitypickups.com](https://www.pegcitypickups.com)
-- [ ] Resomax NW2 PS-8593-N0 | Wraparound · nickel · String Savers intégrés [graphtech.com](https://www.graphtech.com)
+- [x] Graph Tech Resomax NW2 PS-8593-N0 | Wraparound · nickel · String Savers intégrés [graphtech.com](https://www.graphtech.com)
 - [ ] Gotoh SDS510 6-inline from [nextgenguitars.ca](https://nextgenguitars.ca)
 - [ ] Graph Tech TUSQ Slotted Nut (PQ-6116-00) from [nextgenguitars.ca](https://nextgenguitars.ca)
 - [ ] Electronics & hardware from [long-mcquade.com](https://www.long-mcquade.com)
