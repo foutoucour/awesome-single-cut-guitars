@@ -106,3 +106,5 @@ The price ranges use a 6-tier system represented by money emojis (💰):
 > **Note**  
 > Prices are approximate and based on the retail prices of new guitars. Used guitars, regional variations, and specific
 > models may vary significantly from these ranges.
+
+
